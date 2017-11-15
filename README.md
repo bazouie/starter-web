@@ -15,4 +15,4 @@ Pleas fork this repository
 GPL Licence 
 
 #### Copyright
-2016 - Abe Bazouie - All right reserved
+2016 - Abe Bazouie - All right reserved.
