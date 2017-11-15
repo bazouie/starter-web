@@ -13,4 +13,4 @@
 # TECHNOLOGY COLOPHON
 
     Python, CSS3, js
-    
+    Git
